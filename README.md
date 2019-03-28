@@ -9,7 +9,7 @@
 直接列出 OneDrive 目录，文件直链下载。  
 
 ## Demo
-[https://pangmao100.com](胖猫)  
+[https://pangmao100.com](https://pangmao100.com)  
 
 ## 安装运行
 
