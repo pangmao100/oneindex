@@ -1,5 +1,7 @@
-# OneIndex
-Onedrive Directory Index
+# OneIndex--胖猫修改了部分模板
+1.添加ico图标
+2.修改了默认模板
+3.class主题改为bootstrap
 
 ## 功能：
 不占用服务器空间，不走服务器流量，  
@@ -7,14 +9,14 @@ Onedrive Directory Index
 直接列出 OneDrive 目录，文件直链下载。  
 
 ## Demo
-[https://xn.tn](https://xn.tn)  
+[https://pangmao100.com](胖猫)  
 
 ## 安装运行
 
 ### 源码安装运行：
 
 #### 需求：
-1、PHP空间，PHP 5.6+ 需打开curl支持  
+1、PHP空间，PHP 5.5+ 需打开curl支持  
 2、OneDrive 账号 (个人、企业版或教育版/工作或学校帐户)  
 3、OneIndex 程序   
 
